@@ -51,7 +51,7 @@ const HTML_CONTENT = `
     }
 </script>
 
-<script defer src="//https://raw.githubusercontent.com/hk1996yhx/cf-analytics_with_cloudflare/refs/heads/main/front/dist/index.min.js" data-base-url="https://analytics.019960.xyz"></script>
+<script defer src="//raw.githubusercontent.com/hk1996yhx/cf-analytics_with_cloudflare/refs/heads/main/front/dist/index.min.js" data-base-url="https://analytics.019960.xyz"></script>
 <!--  <script defer src="//webviso.yestool.org/js/index.min.js" data-base-url="https://analytics.019960.xyz"></script>  -->
 本页访问人次:<span id="page_pv"></span>本页访问人数:<span id="page_uv"></span>
     <!-- 看板娘 -->
