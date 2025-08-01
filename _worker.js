@@ -50,8 +50,11 @@ const HTML_CONTENT = `
         document.getElementById('contentFrame').src = url;
     }
 </script>
+<script defer src="//webviso.yestool.org/js/index.min.js"></script>
+<div>
+本页访问人次:<span id="page_pv"></span>
 
-
+本页访问人数:<span id="page_uv"></span></div>
     <!-- 看板娘 -->
     <script src="https://unpkg.com/oh-my-live2d@latest"></script>
     <script>
