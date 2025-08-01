@@ -50,7 +50,7 @@ const HTML_CONTENT = `
         document.getElementById('contentFrame').src = url;
     }
 </script>
-<script defer src="//webviso.yestool.org/js/index.min.js"></script>
+<script defer src="//cf-analytics.377020945.workers.dev/js/index.min.js"></script>
 <div>
 本页访问人次:<span id="page_pv"></span>
 
